@@ -1,3 +1,4 @@
+#!/bin/bash
 systemctl unmask docker
 service docker start
 cd /app
